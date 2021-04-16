@@ -1,5 +1,6 @@
 # импортируем библиотеки
 from flask import Flask, request
+import os
 import logging
 
 # библиотека, которая нам понадобится для работы с JSON
